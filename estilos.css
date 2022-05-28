@@ -1,0 +1,17 @@
+body{
+    background-color: darkgray;
+    text-align: center;
+}
+
+h1 p {
+    color: beige;
+    size: 25px;
+}
+
+h1{background-color: whitesmoke;}
+
+img{border-radius:800px;}
+
+p{
+    background-color: rgb(248, 242, 242);
+}
